@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369239597530",
+    "project_id": "chatapp-19e9f",
+    "storage_bucket": "chatapp-19e9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369239597530:android:81ec62f430b9516ebb20e3",
+        "android_client_info": {
+          "package_name": "com.berkanbuyuk.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369239597530-1jntgh5meskts5sikkpn6ah3mqad65rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBs0XQ4sIGbyINP9z-Ocnanc4OQx1xzQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369239597530-1jntgh5meskts5sikkpn6ah3mqad65rr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
